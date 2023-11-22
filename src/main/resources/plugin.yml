@@ -1,0 +1,6 @@
+name: PaperUtil
+version: '${project.version}'
+main: de.leghast.paperutil.PaperUtil
+api-version: '1.20'
+authors: [GhastCraftHD]
+description: Util classes for a smooth Paper coding experience
